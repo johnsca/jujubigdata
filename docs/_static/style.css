@@ -1,0 +1,13 @@
+dl.class > dt,
+dl.exception > dt,
+dl.function > dt {
+    margin-top: 2em;
+    background: #eee;
+    border-top: 4px solid #ccc;
+    padding: 2px 8px 6px;
+}
+
+dl.class > dd > p:first-child,
+dl.exception > dd > p:first-child {
+    font-style: italic;
+}
