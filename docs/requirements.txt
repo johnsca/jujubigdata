@@ -1,1 +1,5 @@
 cloud_sptheme
+-e bzr+http://bazaar.launchpad.net/~bigdata-dev/charm-helpers/framework/#egg=charmhelpers
+PyYAML==3.10       # precise
+path.py>=7.0
+jujuresources>=0.2.5
